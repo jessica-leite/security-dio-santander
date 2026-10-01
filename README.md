@@ -6,3 +6,6 @@ Top 10 risks, vulnerabilities and mitigations for developing and securing genera
 https://genai.owasp.org/llm-top-10/
 
 Prompts maliciosos podem alterar o comportamento da IA, ela não deve ser capaz de fazer alterações sensíveis sem aprovação de pessoas responsáveis.
+
+01-10
+Aceleração Santander - Primeiros passos com IA
